@@ -1,0 +1,97 @@
+/* Set the background color to black */
+body {
+    background-color: black;
+    color: orange;
+    }
+    
+    /* Add a black background color to the top navigation */
+    .navbar {
+    background-color: black;
+    }
+    
+    /* Change the color of links on hover */
+    .navbar a:hover {
+    color: orange;
+    }
+    
+    /* Add a orange color to the active/current link */
+    .navbar .active {
+    color: orange;
+    }
+    
+    /* Add some padding and center the text in the header */
+    .navbar .navbar-brand {
+    padding: 0px 16px;
+    font-size: 20px;
+    text-align: center;
+    }
+    
+    /* Add some margin and center the form on the page */
+    .container {
+    margin: 50px auto;
+    text-align: center;
+    }
+    
+    /* Style the input fields */
+    .form-control {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 12px 20px;
+    margin: 8px 0;
+    width: 80%;
+    }
+    
+    /* Style the submit button */
+    button[type="submit"] {
+    background-color: orange;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 20%;
+    display:block;
+    margin: 0 auto;
+    }
+    / center the submit button */
+    .form-group {
+    text-align: center;
+    }
+    
+    /*center the form-control /
+    .form-control {
+    text-align: center;
+    }
+    / center the checkbox /
+    .form-check {
+    text-align: center;
+    }
+    / center the label /
+    .form-check-label {
+    text-align: center;
+    }
+    / center the gridCheck */
+    .form-check input {
+    text-align: center;
+    }
+    
+    /* center the form-check-input /
+    .form-check-input {
+    text-align: center;
+    }
+    / center the inputPassword /
+    #inputPassword {
+    text-align: center;
+    }
+    / center the inputEmail4 /
+    #inputEmail4 {
+    text-align: center;
+    }
+    / center the inputPassword4 /
+    #inputPassword4 {
+    text-align: center;
+    }
+    / center the gridCheck */
+    #gridCheck {
+    text-align: center;
+    }
